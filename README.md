@@ -8,7 +8,7 @@
 
 - Created - 2023-2-8
 
-- Technologies Used - Html , css , js , React.js
+- Technologies Used - Html , css , scss
 
 - Hooks Used : useState 
 
