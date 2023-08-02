@@ -1,8 +1,6 @@
 #3
 
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
-
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![viewfinal](![image psd](https://github.com/Faraz-Azizi-Developer/3/assets/140517125/81ae64f2-ae8b-4bb0-9228-b619fd3b9f72))
 
 - [Demo Project](https://faraz-azizi-developer.github.io/3/)
 
